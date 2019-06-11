@@ -16,7 +16,7 @@
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
     <link href="css/aos.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="styles/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="./styles/main.css">
 </head>
 <body id="top" data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
 
